@@ -1,3 +1,3 @@
 # Sopuko
 
-A small vanilla-js sudoku implementation implemented at the beach 🏖️
+A small vanilla-js sudoku implementation, implemented at the beach 🏖️
